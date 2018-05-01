@@ -1,0 +1,5 @@
+T1	Rats 98 102	Rats
+T2	Roaches 107 118	cockroaches
+T3	Position 127 131	over
+T4	Location 132 139	garbage
+R1	Target Arg1:T3 Arg2:T4	

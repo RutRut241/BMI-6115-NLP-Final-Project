@@ -1,0 +1,6 @@
+T1	FBI 39 42	ill
+T2	FBI 28 38	work while
+A1	Negation T2
+T3	Individual 0 9	Employees
+R1	Target Arg1:T3 Arg2:T1	
+A2	Subject T3 Employee

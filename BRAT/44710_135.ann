@@ -1,0 +1,9 @@
+T1	Rats 44 47	RAT
+T2	Rats 48 57	DROPPINGS
+T3	Position 62 66	OVER
+T4	Position 77 79	IN
+T5	Position 99 101	ON
+T6	Location 84 94	BUN WARMER
+T7	Location 106 113	COUNTER
+R1	Target Arg1:T4 Arg2:T6	
+R2	Target Arg1:T5 Arg2:T7	

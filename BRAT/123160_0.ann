@@ -1,0 +1,7 @@
+T1	Rats 6 9	rat
+T2	Position 15 21	out of
+T3	Location 31 48	drive thru window
+T4	Position 59 65	across
+T5	Location 70 74	wall
+R1	Target Arg1:T2 Arg2:T3	
+R2	Target Arg1:T4 Arg2:T5	

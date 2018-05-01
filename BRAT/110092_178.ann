@@ -1,0 +1,4 @@
+T1	Roaches 99 110	Cockroaches
+T2	Position 111 121	underneath
+T3	Location 126 136	dishwasher
+R1	Target Arg1:T2 Arg2:T3	

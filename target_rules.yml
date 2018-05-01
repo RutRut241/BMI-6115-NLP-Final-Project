@@ -1,0 +1,119 @@
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'cockroach'
+Type: ROACH
+---
+Comments: ''
+Direction: ''
+Lex: 'epi'
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: 'stomach'
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: 'nausea'
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: 'threw up'
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: 'fbi'
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'food\s?borne?\b'
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'vomit*'
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'sick'
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'diarr?h?ea'
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'illn?e?s?s?\b'
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: fever
+Regex: ''
+Type: FBI
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'roache?s?\b'
+Type: ROACH
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'cockroache?s?\b'
+Type: ROACH
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'rats?\b'
+Type: RATS
+---
+Comments: ''
+Direction: ''
+Lex: 'rat'
+Regex: ''
+Type: RATS
+---
+Comments: ''
+Direction: ''
+Lex: 'mouse'
+Regex: ''
+Type: RATS
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'mice'
+Type: RATS
+---
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: 'rodents?\b'
+Type: RATS
+---
+Comments: ''
+Direction: ''
+Lex: high temperature
+Regex: '1\d\d\.\d F'
+Type: FBI

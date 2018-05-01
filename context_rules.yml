@@ -1,0 +1,60 @@
+Comments: ''
+Direction: forward
+Lex: 'no'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'not'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'employee'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'cook'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'worker'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'denies'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'previously had'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: 'before'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: 'in the past'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'might get'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+

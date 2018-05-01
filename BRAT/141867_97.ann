@@ -1,0 +1,4 @@
+T1	Roaches 50 59	cockroach
+T2	Position 41 43	in
+T3	Location 69 76	trailer
+R1	Target Arg1:T2 Arg2:T3	

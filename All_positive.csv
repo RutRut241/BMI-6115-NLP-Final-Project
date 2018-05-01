@@ -1,0 +1,3604 @@
+,Request Number,Findings,Category,Relationships
+45750,rats_doc,"__________________________________________
+","  markup_id vis_category start  end    txt  type
+0        T0       Target   107  112  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46144,rats_doc,"__________________________________________
+","  markup_id vis_category start  end  txt  type
+0        T0       Target   164  167  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46758,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    34  37  rat  rats
+1        T1       Target    87  90  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46760,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     5  10  mouse  rats
+1        T1       Target    26  31  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46773,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    28  31  rat  rats
+1        T1       Target    62  65  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+47018,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    41  44  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+47509,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    12  17  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+47601,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+52349,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    48  53  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+52801,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    31  36  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53310,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    48  53  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+56383,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     6   9  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+56768,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     0   5  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+56851,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    12  17  mouse  rats
+1        T1       Target    46  51  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+57695,rats_doc,"__________________________________________
+","  markup_id vis_category start  end    txt  type
+0        T0       Target   282  285    rat  rats
+1        T1       Target   140  145  mouse  rats
+2        T2       Target   218  223  mouse  rats
+3        T3       Target   272  277  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+58613,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    75  80  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59615,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     5  10  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+64039,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     2   5  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+70823,rats_doc,"__________________________________________
+","  markup_id vis_category start  end    txt  type
+0        T0       Target    76   81  mouse  rats
+1        T1       Target   162  167  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+74513,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     2   7  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+75881,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    53  58  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+79643,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+80205,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    12  17  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+80934,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+82257,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    20  25  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+83041,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    18  21  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+83980,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    10  13  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+85307,rats_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach
+1        T1       Target    77  80        rat   rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+86011,rats_doc,"__________________________________________
+","  markup_id vis_category start  end  txt  type
+0        T0       Target   134  137  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92401,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     0   5  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93803,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    21  26  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95267,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     2   7  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96638,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102121,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104852,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    17  20  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105165,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     6  11  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105281,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    13  18  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106805,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    59  64  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107344,rats_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  11      mouse   rats
+1        T1       Target    47  56  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114796,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    57  60  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114941,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    15  20  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+120172,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    12  15  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123193,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     2   5  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123430,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    15  20  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+124320,rats_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    58  67  cockroach  roach
+1        T1       Target    26  31      mouse   rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126400,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     0   5  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126966,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     6   9  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127172,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    25  28  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127231,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127494,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    16  21  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127838,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    11  16  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130011,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    45  50  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131216,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    41  46  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131513,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    12  15  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+132142,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     0   5  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+132357,rats_doc,"__________________________________________
+","  markup_id vis_category start  end    txt  type
+0        T0       Target   102  107  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135929,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    15  20  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136229,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     4   9  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136364,rats_doc,"__________________________________________
+","  markup_id vis_category start  end    txt  type
+0        T0       Target    24   29  mouse  rats
+1        T1       Target   111  116  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138020,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    11  16  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139602,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140675,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    10  15  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140746,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140819,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     6  11  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141415,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target     6  11  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+145316,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target     0   3  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+146540,rats_doc,"__________________________________________
+","  markup_id vis_category start end    txt  type
+0        T0       Target    28  33  mouse  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147799,rats_doc,"__________________________________________
+","  markup_id vis_category start end  txt  type
+0        T0       Target    33  36  rat  rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147940,rats_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    67   76  cockroach  roach
+1        T1       Target   127  132      mouse   rats","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+42893,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    40  49  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+43094,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+45313,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+45350,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+45571,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    23  32  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46331,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    71  80  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46358,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    75  84  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+46569,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target   130  139  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+47373,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    11  20  cockroach  roach
+1        T1       Target    66  75  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+47980,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48048,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    51  60  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48141,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    31  40  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48210,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    78  87  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48252,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    86   95  cockroach  roach
+1        T1       Target   166  175  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48255,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    82   91  cockroach  roach
+1        T1       Target   162  171  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48278,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach
+1        T1       Target    60  69  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48534,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    43  52  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48563,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    55  64  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+48616,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+49302,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    88  97  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+49613,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+49959,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+49968,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+50125,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+50288,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+50988,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+51207,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+52326,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+52713,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+52728,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53004,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53235,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53425,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53608,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53619,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     0    9  cockroach  roach
+1        T1       Target    49   58  cockroach  roach
+2        T2       Target    96  105  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+53809,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+54097,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+55940,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+57857,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+58248,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    14  23  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59005,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    21  30  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59091,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59239,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+60697,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    24  33  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+60967,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach
+1        T1       Target    81  90  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+62841,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+63590,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+63815,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+64061,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+66413,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69349,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69585,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    75  84  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69597,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    13   22  cockroach  roach
+1        T1       Target   356  365  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+70988,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+71683,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+72751,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target   197  206  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+73105,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+73273,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+73608,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+74256,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+74371,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    22  31  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+76344,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+78694,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    14  23  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+78932,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+80028,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+81289,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+81312,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+81619,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+82877,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+83782,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+84340,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+85034,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+85189,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89839,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90761,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+91620,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    20  29  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+91995,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92405,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach
+1        T1       Target    48  57  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92569,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93257,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    26  35  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93670,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    50  59  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96633,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     2   11  cockroach  roach
+1        T1       Target   168  177  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96784,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    11  20  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97589,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    16  25  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97610,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    22  31  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97874,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98050,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    33  42  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98109,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98350,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    11  20  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98500,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98701,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99679,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    28  37  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99687,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    37  46  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99997,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100353,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    57  66  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100581,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100859,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101450,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    58   67  cockroach  roach
+1        T1       Target   120  129  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101744,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102007,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    52  61  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102070,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    54  63  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102253,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    53  62  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103124,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    47  56  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103529,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104383,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104387,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    60  69  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104755,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    55  64  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104786,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    25  34  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104863,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach
+1        T1       Target    70  79  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104942,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104951,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    20  29  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105705,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105805,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105828,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105829,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105924,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106226,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    26  35  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106309,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106782,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106883,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107510,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     0    9  cockroach  roach
+1        T1       Target   117  126  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107527,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    14  23  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108362,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108719,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108785,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    53  62  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108912,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108915,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109177,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109247,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109354,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    59  68  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110085,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110231,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    16  25  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110315,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    24  33  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110458,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     7  16  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110599,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110801,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112238,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target   117  126  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112293,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    16  25  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112364,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    76  85  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113126,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    65  74  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113353,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113387,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113561,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113638,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113781,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113814,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113876,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    18  27  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113879,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113890,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    28  37  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114056,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114326,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114547,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    46  55  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+115477,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116005,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    51  60  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116182,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    45  54  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+117034,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118140,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118288,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118319,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    33  42  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118982,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119294,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119400,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119401,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119546,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    23  32  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119676,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    41  50  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119872,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119919,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+120461,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    29  38  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+120606,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121688,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121755,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122034,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    11  20  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122076,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122774,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123309,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    57  66  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123915,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+124394,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    23  32  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+124588,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+124942,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125029,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125091,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    10  19  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125983,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126333,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126627,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    25  34  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127089,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127121,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    14  23  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127256,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    46  55  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127870,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128177,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     7  16  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128262,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128870,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129353,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    37  46  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129491,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129659,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129806,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129876,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129892,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    29  38  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129955,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129982,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    60  69  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130470,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    19  28  cockroach  roach
+1        T1       Target    81  90  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130921,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    11  20  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131314,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131406,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    17  26  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131542,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    52  61  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+132353,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    13  22  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+132424,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133129,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133419,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133854,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    18  27  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133867,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133868,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+134109,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     8   17  cockroach  roach
+1        T1       Target    91  100  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+134603,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+134660,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target    28   37  cockroach  roach
+1        T1       Target   118  127  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+134829,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135117,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     6   15  cockroach  roach
+1        T1       Target    94  103  cockroach  roach
+2        T2       Target   184  193  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135325,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135431,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135770,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136380,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    59  68  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136398,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    16  25  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136831,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136848,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137439,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137623,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137626,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    48  57  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137680,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    21  30  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137728,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target     0    9  cockroach  roach
+1        T1       Target   104  113  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138047,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138156,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    65  74  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138746,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    71  80  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139030,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139119,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139140,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139515,roach_doc,"__________________________________________
+","  markup_id vis_category start  end        txt   type
+0        T0       Target   463  472  cockroach  roach
+1        T1       Target   539  548  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139563,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139925,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    12  21  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140214,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140667,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140668,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    36  45  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140897,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    23  32  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141123,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141270,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141491,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141511,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141750,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142319,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142704,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    86  95  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142752,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+143409,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+145151,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+145581,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+145643,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     5  14  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+146061,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+146385,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     7  16  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147593,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147725,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148093,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148430,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148583,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    59  68  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148716,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     9  18  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148791,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     6  15  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148941,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149040,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     8  17  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149138,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149184,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     4  13  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149737,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    29  38  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149867,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target    16  25  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149905,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     2  11  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+150132,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    50  59  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+150256,roach_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+43338,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end     txt type
+0        T0       Target   104  110  nausea  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+43355,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end      txt type
+0        T0       Target   138  145  stomach  fbi
+1        T1       Target   224  231  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+43517,fbi_doc,"__________________________________________
+","  markup_id vis_category start end     txt type
+0        T0       Target    72  78  nausea  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+49927,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end      txt type
+0        T0       Target   311  318  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+51011,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end      txt type
+0        T0       Target   115  122  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+56190,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    58  65  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+58156,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end     txt type
+0        T0       Target   189  195  nausea  fbi
+1        T1       Target   161  166   fever  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59234,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+59628,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end      txt type
+0        T0       Target   232  239  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+61100,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    82  89  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+68498,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end      txt                        type
+0        T0       Target    77   84  stomach                         fbi
+1        T1     Modifier     4    7      not  definite_negated_existence
+2        T2       Target   166  173  stomach                         fbi","  relation_id                        type arg1_cate arg1_id arg2_cate arg2_id
+0          R0  definite_negated_existence  Modifier      T1    Target      T0"
+69269,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    22  25  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69509,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    22  25  epi  fbi
+1        T1       Target    45  48  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69511,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    14  17  epi  fbi
+1        T1       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+69699,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    30  33  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+70863,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end  txt type
+0        T0       Target   127  130  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+71234,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    23  30  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+75346,fbi_doc,"__________________________________________
+","  markup_id vis_category start end       txt type
+0        T0       Target     6  14  threw up  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+76324,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+81138,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  epi  fbi
+1        T1       Target    16  19  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+86762,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87242,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87245,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87250,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87252,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87284,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87304,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87376,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87398,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87565,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87573,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87743,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+87757,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+88138,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+88638,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+88861,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+88929,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89127,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89224,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89638,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89659,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+89772,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90386,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90643,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90696,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90697,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90793,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+90934,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+91210,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+91531,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+91726,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92060,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92061,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92250,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92392,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92541,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92547,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+92892,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93069,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93094,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    60  67  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93217,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93227,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93246,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93351,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93559,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93563,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93646,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+93693,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94234,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94449,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94679,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94680,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94721,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94782,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+94871,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95063,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95159,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95201,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95432,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95436,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95478,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95485,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95612,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95630,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+95848,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96029,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96314,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96437,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+96716,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97295,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97329,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97505,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97510,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97631,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+97814,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98116,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98156,fbi_doc,"__________________________________________
+","  markup_id vis_category start end     txt type
+0        T0       Target    33  39  nausea  fbi
+1        T1       Target    56  61   fever  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98437,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98463,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98540,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98659,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+98808,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99075,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99078,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99149,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99233,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99263,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99328,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99399,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99415,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99681,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99922,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+99936,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100004,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100024,fbi_doc,"__________________________________________
+","  markup_id vis_category start end    txt type
+0        T0       Target    78  83  fever  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100045,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100407,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100417,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100434,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100450,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100471,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100497,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100533,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100541,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100725,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+100872,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101071,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101129,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101328,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    27  34  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101435,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101513,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101700,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+101880,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102444,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102445,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102448,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102694,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102796,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+102998,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103007,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103041,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103121,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103129,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103200,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103353,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103382,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+103385,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104009,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target     4  11  stomach  fbi
+1        T1       Target    26  29      fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104242,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104527,fbi_doc,"__________________________________________
+","  markup_id vis_category start end       txt type
+0        T0       Target    13  21  threw up  fbi
+1        T1       Target    72  79   stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104731,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104740,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104873,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+104892,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105102,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105195,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105214,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105424,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105484,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105522,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+105668,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106566,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106581,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106790,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106905,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+106939,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107030,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107031,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107049,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107104,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107106,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107150,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107284,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107286,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107288,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107309,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107330,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107458,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107590,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107614,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107616,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+107738,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108023,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108113,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108123,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108132,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108256,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108392,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108394,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108587,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108597,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108728,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108797,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+108938,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    30  33  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109156,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109157,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109234,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109446,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109500,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    62  65  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109539,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109566,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109574,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109638,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109644,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109697,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109777,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109912,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+109913,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110011,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110018,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110175,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110180,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+110671,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+111386,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+111557,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+111558,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+111710,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112054,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112222,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112247,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112388,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112772,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+112796,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113068,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113201,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113260,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    10  13  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113355,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113433,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113449,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113496,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113840,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113869,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+113871,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114036,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114050,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114081,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114387,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114461,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114503,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114720,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114982,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+114984,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+115099,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+115264,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+115708,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116013,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116164,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116219,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116354,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116360,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116490,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116675,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    27  30  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116699,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116773,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116779,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+116929,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+117033,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    51  54  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+117435,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+117762,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+117892,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118318,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target     0   7  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118441,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+118714,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119167,fbi_doc,"__________________________________________
+","  markup_id vis_category start  end  txt type
+0        T0       Target   124  127  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119295,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119479,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119500,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+119648,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+120685,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+120686,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121307,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121407,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121408,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121409,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121519,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121797,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121813,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    92  99  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+121852,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    15  18  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122025,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122264,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122821,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    41  48  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122898,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+122973,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    61  64  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123701,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+123706,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125221,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125419,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target    42  45  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+125474,fbi_doc,"__________________________________________
+","  markup_id vis_category start end    txt type
+0        T0       Target    30  35  fever  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126019,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126234,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126237,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126266,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126866,fbi_doc,"__________________________________________
+","  markup_id vis_category start end       txt type
+0        T0       Target    79  87  threw up  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+126965,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127402,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127434,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127612,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127818,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    23  30  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127945,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+127977,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128002,fbi_doc,"__________________________________________
+","  markup_id vis_category start end       txt type
+0        T0       Target    35  43  threw up  fbi
+1        T1       Target    67  70       fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128003,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    31  38  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+128320,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129053,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129139,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129563,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129577,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129817,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+129847,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130044,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130052,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130065,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130121,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130122,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130157,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130502,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+130892,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131599,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131696,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target     4  11  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+131722,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+132740,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133529,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+133786,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+134890,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135292,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135871,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135946,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+135954,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136373,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136786,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    18  25  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+136904,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137415,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+137550,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138406,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138437,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138518,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+138734,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139055,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139065,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139635,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139761,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+139999,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140000,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140144,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140429,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140816,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+140953,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141553,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+141602,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142475,fbi_doc,"__________________________________________
+","  markup_id vis_category start end       txt type
+0        T0       Target    11  19  threw up  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142677,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+142688,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+143342,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+144083,fbi_doc,"__________________________________________
+","  markup_id vis_category start end      txt type
+0        T0       Target    22  29  stomach  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+145519,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+146071,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+146357,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147194,fbi_doc,"__________________________________________
+","  markup_id vis_category start end        txt   type
+0        T0       Target     0   9  cockroach  roach
+1        T1       Target    90  93        epi    fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147357,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+147801,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     4   7  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148301,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148362,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148414,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148415,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148526,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148601,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148602,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     0   3  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148614,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+148721,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     9  12  fbi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"
+149827,fbi_doc,"__________________________________________
+","  markup_id vis_category start end  txt type
+0        T0       Target     8  11  epi  fbi","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"

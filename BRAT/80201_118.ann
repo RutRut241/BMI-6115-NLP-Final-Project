@@ -1,0 +1,4 @@
+T1	Roaches 70 81	Cockroaches
+T2	Position 82 84	in
+T3	Location 89 93	food
+R1	Target Arg1:T2 Arg2:T3	

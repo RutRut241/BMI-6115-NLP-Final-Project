@@ -1,0 +1,4 @@
+T1	FBI 0 3	FBI
+T2	Individual 15 27	wife/husband
+A1	Subject T2 Customer
+R1	Target Arg1:T1 Arg2:T2	

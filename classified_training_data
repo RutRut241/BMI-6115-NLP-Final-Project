@@ -1,0 +1,1005 @@
+,42895,42988,43503,43831,44161,44227,44710,45857,46266,46996,48314,49754,50688,52470,53494,54070,55403,55804,55987,57378,57447,57869,58434,58642,58727,59353,60510,60621,60784,60844,61728,61808,61897,62671,62675,62840,63875,63936,64042,64109,69113,70155,70191,70321,70384,70385,70862,71151,71804,71834,72620,73593,74298,74673,75476,76135,76265,77139,77744,78098,78111,78635,79076,80201,80430,81323,82316,83033,83354,83558,83918,84031,85312,85635,87127,89238,89547,89670,89710,91604,91606,91688,92136,92284,92423,92426,92490,92935,95069,95754,95910,96640,96653,96779,97064,97071,97197,98727,99138,99929,99995,100351,100672,100709,100930,101285,101409,102776,102798,102897,103503,105742,105775,105916,106977,107065,107116,107285,107386,107935,108177,108611,108830,109398,109467,110092,110460,110461,111870,111908,112390,112782,113500,113664,113978,114942,116750,117459,117480,117680,119943,120869,121125,121588,122688,122910,123160,123595,123793,124757,124860,125793,125856,126225,126396,126857,126922,127201,127275,128847,129154,130275,130524,131308,131557,131568,131695,131721,132351,132828,133863,135195,136042,137813,138195,139053,140197,141780,141867,142117,142450,142648,142718,142857,143627,143888,145027,145846,145985,146257,146376,147822,147927,148186,149215,149289,149731,149783,149833,150121
+0,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings,no_findings
+1,"__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+","__________________________________________
+"
+2,"Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []","Empty DataFrame
+Columns: [markup_id, vis_category, start, end, txt, type]
+Index: []"
+3,"Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []","Empty DataFrame
+Columns: [relation_id, type, arg1_cate, arg1_id, arg2_cate, arg2_id]
+Index: []"

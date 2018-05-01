@@ -1,0 +1,5 @@
+T1	Rats 6 11	mouse
+T2	Rats 49 54	mouse
+T3	Position 12 14	in
+T4	Location 19 26	kitchen
+R1	Target Arg1:T3 Arg2:T4	

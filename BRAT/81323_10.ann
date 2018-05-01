@@ -1,0 +1,4 @@
+T1	Roaches 0 9	Cockroach
+T2	Position 23 25	up
+T3	Location 42 53	dining area
+R1	Target Arg1:T2 Arg2:T3	

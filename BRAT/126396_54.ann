@@ -1,0 +1,5 @@
+T1	FBI 76 79	ill
+T2	FBI 13 19	Cileac
+A1	Negation T2
+T3	Individual 0 8	Customer
+R1	Target Arg1:T3 Arg2:T1	

@@ -1,0 +1,7 @@
+T2	Roaches 0 11	Cockroaches
+T1	Position 31 37	across
+T3	Location 42 47	table
+T4	Position 84 89	under
+T5	Location 94 107	cash register
+R1	Target Arg1:T4 Arg2:T5	
+R2	Target Arg1:T1 Arg2:T3	

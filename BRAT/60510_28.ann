@@ -1,0 +1,5 @@
+T1	Rats 7 12	MOUSE
+T2	Rats 108 112	MICE
+T3	Position 21 23	IN
+T4	Location 24 32	FACILITY
+R1	Target Arg1:T3 Arg2:T4	
